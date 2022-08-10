@@ -5,8 +5,8 @@ export default function Home() {
     <div>
       <Head>
         <title>Atomic Programmers</title>
-        <meta name="description" content="Atomic Programmers v3.0" />
-        <link rel="icon" href="/favicon.ico" />
+        <meta name='description' content='Atomic Programmers v3.0' />
+        <link rel='icon' href='/favicon.ico' />
         <main>
           <h1>Hello World</h1>
         </main>
